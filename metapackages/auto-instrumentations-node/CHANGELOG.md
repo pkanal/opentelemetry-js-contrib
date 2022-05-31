@@ -14,6 +14,12 @@
     * @opentelemetry/instrumentation-redis bumped from ^0.28.0 to ^0.29.0
     * @opentelemetry/instrumentation-winston bumped from ^0.27.0 to ^0.27.2
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @opentelemetry/instrumentation-mysql2 bumped from ^0.30.0 to ^0.31.0
+
 ## [0.30.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.29.0...auto-instrumentations-node-v0.30.0) (2022-05-25)
 
 
